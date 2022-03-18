@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>images/add.png</file>
+        <file>images/undo.png</file>
+        <file>images/send.png</file>
+        <file>images/tick.png</file>
+        <file>images/reset.png</file>
+        <file>images/previous.png</file>
+        <file>images/carpi.png</file>
+        <file>images/search.png</file>
+        <file>images/bluetooth.png</file>
+        <file>images/next.png</file>
+        <file>images/dateTime.png</file>
+    </qresource>
+</RCC>
