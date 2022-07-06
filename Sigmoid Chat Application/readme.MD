@@ -4,6 +4,6 @@ This is my second assignment of Computer Networks and Network Programming. In th
 ## Screenshots Of Program
 <img src="Screenshots/1.png"/>
 <img src="Screenshots/2.png"/>
-<img src="Screenshots/2.png"/>
+<img src="Screenshots/3.png"/>
 <img src="Screenshots/4.png"/>
 <img src="Screenshots/5.png"/>
