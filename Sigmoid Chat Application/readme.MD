@@ -2,8 +2,8 @@ This is my second assignment of Computer Networks and Network Programming. In th
 
 
 ## Screenshots Of Program
-<img src="Screenshot/1.png"/>
-<img src="Screenshot/2.png"/>
-<img src="Screenshot/2.png"/>
-<img src="Screenshot/4.png"/>
-<img src="Screenshot/5.png"/>
+<img src="Screenshots/1.png"/>
+<img src="Screenshots/2.png"/>
+<img src="Screenshots/2.png"/>
+<img src="Screenshots/4.png"/>
+<img src="Screenshots/5.png"/>
