@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/addEmp.png</file>
+        <file>images/chatServer.png</file>
+        <file>images/add.png</file>
+        <file>images/search.png</file>
+        <file>images/back.png</file>
+        <file>images/timedate.jpg</file>
+        <file>images/Start.png</file>
+        <file>images/stop.png</file>
+        <file>images/group.png</file>
+        <file>images/privateChat.png</file>
+        <file>images/appIcon.png</file>
+    </qresource>
+</RCC>

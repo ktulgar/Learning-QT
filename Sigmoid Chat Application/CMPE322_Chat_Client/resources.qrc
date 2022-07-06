@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>images/Log_In.png</file>
+        <file>images/Sign_Up.png</file>
+        <file>images/users.jpg</file>
+        <file>images/privateChat.png</file>
+        <file>images/groupChat.jpg</file>
+        <file>images/refresh.png</file>
+        <file>images/back.png</file>
+        <file>images/next.png</file>
+        <file>images/SignUpIn.png</file>
+        <file>images/appIcon.png</file>
+    </qresource>
+</RCC>
