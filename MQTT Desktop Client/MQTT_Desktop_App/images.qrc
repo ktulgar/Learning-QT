@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/temp_icon.png</file>
+        <file>images/servoMotor_icon.png</file>
+        <file>images/off_green.png</file>
+        <file>images/off_red.png</file>
+        <file>images/off_yellow.png</file>
+        <file>images/on_green.png</file>
+        <file>images/on_red.png</file>
+        <file>images/on_yellow.png</file>
+        <file>images/Acc_Icon.png</file>
+        <file>images/connect.png</file>
+        <file>images/st.png</file>
+        <file>images/MQTT.png</file>
+        <file>images/qt.png</file>
+        <file>images/potentiometer.png</file>
+        <file>images/next_page.png</file>
+        <file>images/subscribe.png</file>
+        <file>images/x.png</file>
+        <file>images/y.png</file>
+        <file>images/z.png</file>
+        <file>images/dcMotor.png</file>
+        <file>images/altitude.png</file>
+        <file>images/atmospheric_pressure.png</file>
+    </qresource>
+</RCC>
